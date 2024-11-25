@@ -1,0 +1,16 @@
+<web-app>
+
+    <!-- Hello -->
+    <servlet>
+        <servlet-name>HelloWorld</servlet-name>
+        <servlet-class>Hello</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HelloWorld</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    
+</web-app>
+
+

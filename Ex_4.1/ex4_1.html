@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise 4.1</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="ex4_1.css">
+</head>
+<body>
+    <div class="background-blur"></div>
+
+    <div class="container">
+        <div class="video-container">
+            <img src="./images/henkco-ten-caat-moving-cats.gif" alt="Song-related GIF" class="song-gif">
+        </div>
+
+        <div class="form-container">
+            <form id="userDetailsForm">
+                <h2>User Details</h2>
+                <div class="form-group">
+                    <label for="userName">Name</label>
+                    <input type="text" class="form-control" id="userName" placeholder="Enter your name" required>
+                    <div class="message" id="nameMessage"></div>
+                </div>
+                <div class="form-group">
+                    <label for="userEmail">Email</label>
+                    <input type="email" class="form-control" id="userEmail" placeholder="Enter your email" required>
+                </div>
+                <div class="form-group">
+                    <label for="userAge">Age</label>
+                    <input type="number" class="form-control" id="userAge" placeholder="Enter your age" min="1" required>
+                </div>
+                <div class="form-group">
+                    <label for="favoriteArtist">Favorite Artist</label>
+                    <input type="text" class="form-control" id="favoriteArtist" placeholder="Enter your favorite artist" required>
+                    <div class="message" id="artistMessage"></div>
+                </div>
+                <div class="form-group">
+                    <label for="userGenre">Favorite Genre</label>
+                    <select class="form-control" id="userGenre" required>
+                        <option value="">Select genre</option>
+                        <option value="pop">Pop</option>
+                        <option value="rock">Rock</option>
+                        <option value="jazz">Jazz</option>
+                        <option value="classical">Classical</option>
+                    </select>
+                    <div class="message" id="genreMessage"></div>
+                </div>
+                <div class="form-group">
+                    <label for="userComments">Comments</label>
+                    <textarea class="form-control" id="userComments" rows="3" placeholder="Any additional comments..."></textarea>
+                </div>
+                <div class="submit-btn">
+                    <button type="submit" class="btn btn-primary" style="font-size: larger;">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="ex4_1.js"></script>
+</body>
+</html>
+
+

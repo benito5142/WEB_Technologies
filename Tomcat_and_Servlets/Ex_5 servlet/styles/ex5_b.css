@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to right, #9dff00, #ff00ee, rgb(11, 214, 255), yellow, red);
+    color: #333;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    height: 80vh;
+    background-color: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.left-section {
+    flex: 1;
+    background-image: url('../images/output-onlinegiftools.gif');
+    background-size: cover;
+    background-position: center;
+}
+
+.right-section {
+    flex: 1;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    overflow-y: auto;  /* Make the section scrollable */
+    max-height: 100%;
+}
+
+.question {
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #555;
+    text-align: center;
+}
+
+.input-group {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.input-group input,
+.input-group select {
+    width: 100%;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-top: 8px;
+}
+
+.button {
+    margin-top: 30px;
+    padding: 12px 24px;
+    font-size: 1em;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 5px;
+    background-color: #ddd;
+    margin-bottom: 20px;
+    border-radius: 2px;
+}
+
+.progress-bar-inner {
+    height: 100%;
+    width: 0;
+    background-color: #4CAF50;
+    transition: width 0.3s ease;
+}

@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: #7827e7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif, cursive;
+}
+
+.main {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 80px;
+}
+
+h1{
+    font-size: 3.5rem;
+    text-shadow: 2px 2px #d1b3fc;
+}
+
+.sub{
+    width: 100%;
+    background-color: rgb(180, 137, 255);
+    padding: 40px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.sub a, .dropdown-content-4 a, .dropdown-content-5 a, #repo1, #repo2 {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    background-color: white;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.sub > a:hover, .dropdown-content-4 a:hover, .dropdown-content-5 a:hover, #repo1:hover, #repo2:hover {
+    background-color: rgb(0, 0, 0);
+    color: #7827e7;
+    transform: translateY(-3px);
+}
+
+.dropdown-content-4 {
+    display: none;
+}
+
+.dropdown-content-5 {
+    display: none;
+}
+
+#repo1, #repo2{
+    background-color: red;
+    color: black;
+}
+
+#repo1:hover, #repo2:hover{
+    color: red;
+}
