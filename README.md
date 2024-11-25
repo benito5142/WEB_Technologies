@@ -2,27 +2,31 @@ Web Technologies Overview
 
 Welcome to the Web Technologies Overview repository! This repository serves as a comprehensive resource for understanding, exploring, and implementing web technologies. Whether you are a beginner looking to learn the basics or a professional aiming to deepen your knowledge, this repository provides valuable insights into the building blocks of modern web development.
 
+
+
 Table of Contents
 
-Introduction
+1.Introduction
 
-Core Web Technologies
+2.Core Web Technologies
 
-Frontend Development
+3.Frontend Development
 
-Backend Development
+4.Backend Development
 
-Database Management
+5.Database Management
 
-Key Concepts in Web Development
+6.Key Concepts in Web Development
 
-Tools and Frameworks
+7.Tools and Frameworks
 
-Getting Started
+8.Getting Started
 
-Contributing
+9.Contributing
 
-License
+10.License
+
+
 
 Introduction
 
@@ -30,9 +34,15 @@ Web technologies encompass the tools, programming languages, and frameworks that
 
 This repository breaks down the major components of web development to help you build, optimize, and maintain web projects effectively.
 
+
+
+
 Core Web Technologies
 
 Frontend Development
+
+
+
 
 Frontend development focuses on the user interface and experience. It involves technologies like:
 
@@ -44,6 +54,10 @@ JavaScript: A programming language to make websites interactive.
 
 Frameworks and Libraries: React, Angular, Vue.js, etc.
 
+
+
+
+
 Backend Development
 
 Backend development manages server-side logic and database interactions. Key technologies include:
@@ -53,6 +67,11 @@ Programming Languages: Node.js, Python, PHP, Ruby, Java, etc.
 Web Servers: Apache, Nginx, etc.
 
 APIs: RESTful and GraphQL APIs for communication between client and server.
+
+
+
+
+
 
 Database Management
 
@@ -64,6 +83,11 @@ NoSQL Databases: MongoDB, Cassandra, etc.
 
 Cloud Databases: Firebase, Amazon DynamoDB, etc.
 
+
+
+
+
+
 Key Concepts in Web Development
 
 Responsive Design: Ensuring websites work seamlessly on different devices and screen sizes.
@@ -73,6 +97,11 @@ Version Control: Tools like Git to track and manage code changes.
 Performance Optimization: Techniques to improve website speed and usability.
 
 Security: Best practices to secure applications against threats.
+
+
+
+
+
 
 Tools and Frameworks
 
@@ -85,6 +114,12 @@ Backend: Express.js, Django, Flask
 Build Tools: Webpack, Babel
 
 Testing: Jest, Cypress, Selenium
+
+
+
+
+
+
 
 Getting Started
 
@@ -99,6 +134,11 @@ Navigate to the repository directory:
 cd web-technologies-overview
 
 Follow the instructions in the respective sections to dive deeper into each topic.
+
+
+
+
+
 
 Contributing
 
@@ -117,6 +157,9 @@ git push origin feature-or-fix-name
 
 Open a pull request.
 
+
+
+
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the LICET License.
