@@ -1,0 +1,27 @@
+.main{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgb(216, 216, 216);
+    padding: 20px;
+    border-radius: 5%;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(270deg, #ff602b, #ffeb3b, #8ec5fc, #bc75ff, #14ff20);
+    background-size: 800% 800%;
+    animation: moveBackground 20s ease infinite;
+}
+
+@keyframes moveBackground {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
