@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <song>
+        <name>Electric Love</name>
+        <artist>Borns</artist>
+        <detail>A popular pop song by Borns.</detail>
+        <link>https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ</link>
+    </song>
+    <song>
+        <name>Fein</name>
+        <artist>Travis Scott, Playboi Carti</artist>
+        <detail>Hip-hop track by Travis Scott and Playboi Carti.</detail>
+        <link>https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA</link>
+    </song>
+    <song>
+        <name>Do I Wanna Know</name>
+        <artist>Arctic Monkeys</artist>
+        <detail>A hit song from Arctic Monkeys with a signature sound.</detail>
+        <link>https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst</link>
+    </song>
+    <song>
+        <name>Here</name>
+        <artist>Alessia Shah</artist>
+        <detail>A soulful track by Alessia Shah.</detail>
+        <link>https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr</link>
+    </song>
+    <song>
+        <name>Jericho</name>
+        <artist>Iniko</artist>
+        <detail>A powerful and inspiring song by Iniko.</detail>
+        <link>https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh</link>
+    </song>
+    <song>
+        <name>Astronaut In The Ocean</name>
+        <artist>Masked Wolf</artist>
+        <detail>A breakout rap song by Masked Wolf.</detail>
+        <link>https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA</link>
+    </song>
+    <song>
+        <name>Promiscuous</name>
+        <artist>Nelly Furtado, Timbaland</artist>
+        <detail>A popular R&B and hip-hop collaboration.</detail>
+        <link>https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN</link>
+    </song>
+    <song>
+        <name>Swim</name>
+        <artist>Chase Atlantic</artist>
+        <detail>An atmospheric song by Chase Atlantic.</detail>
+        <link>https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx</link>
+    </song>
+    <song>
+        <name>Gurenge</name>
+        <artist>LiSA</artist>
+        <detail>The opening theme for the anime Demon Slayer.</detail>
+        <link>https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre</link>
+    </song>
+</songs>
