@@ -1,4 +1,4 @@
-![image](https://www.google.com/imgres?q=web%20technology%20&imgurl=https%3A%2F%2Fappskills.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fweb-technology-banner-1.jpg&imgrefurl=https%3A%2F%2Fappskills.com%2Fservices%2Fweb-technology%2F&docid=txVJKTl8NWLzIM&tbnid=ATt3bU_VL6cXJM&vet=12ahUKEwjJ7NqxluWPAxVmg2MGHcR1PekQM3oECDQQAA..i&w=1850&h=720&hcb=2&ved=2ahUKEwjJ7NqxluWPAxVmg2MGHcR1PekQM3oECDQQAA)
+![image]()
 
 ## Web Technologies Overview
 
