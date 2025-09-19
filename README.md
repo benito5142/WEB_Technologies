@@ -1,4 +1,4 @@
-![image](./)
+![image](./web-tech-overview-head.png)
 
 ## Web Technologies Overview
 
