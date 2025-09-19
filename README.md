@@ -1,10 +1,12 @@
-Web Technologies Overview
+![image](https://www.google.com/imgres?q=web%20technology%20&imgurl=https%3A%2F%2Fappskills.com%2Fwp-content%2Fuploads%2F2021%2F07%2Fweb-technology-banner-1.jpg&imgrefurl=https%3A%2F%2Fappskills.com%2Fservices%2Fweb-technology%2F&docid=txVJKTl8NWLzIM&tbnid=ATt3bU_VL6cXJM&vet=12ahUKEwjJ7NqxluWPAxVmg2MGHcR1PekQM3oECDQQAA..i&w=1850&h=720&hcb=2&ved=2ahUKEwjJ7NqxluWPAxVmg2MGHcR1PekQM3oECDQQAA)
+
+## Web Technologies Overview
 
 Welcome to the Web Technologies Overview repository! This repository serves as a comprehensive resource for understanding, exploring, and implementing web technologies. Whether you are a beginner looking to learn the basics or a professional aiming to deepen your knowledge, this repository provides valuable insights into the building blocks of modern web development.
 
 
 
-Table of Contents
+## Table of Contents
 
 1.Introduction
 
@@ -28,18 +30,18 @@ Table of Contents
 
 
 
-Introduction
+## Introduction
 
 Web technologies encompass the tools, programming languages, and frameworks that empower developers to create engaging, scalable, and dynamic websites and applications. These technologies evolve rapidly, making it essential to stay updated and adapt to new trends.
 
-This repository breaks down the major components of web development to help you build, optimize, and maintain web projects effectively.
+--This repository breaks down the major components of web development to help you build, optimize, and maintain web projects effectively.
 
 
 
 
-Core Web Technologies
+## Core Web Technologies:-
 
-Frontend Development
+## Frontend Development
 
 
 
@@ -58,7 +60,7 @@ Frameworks and Libraries: React, Angular, Vue.js, etc.
 
 
 
-Backend Development
+## Backend Development
 
 Backend development manages server-side logic and database interactions. Key technologies include:
 
@@ -73,7 +75,7 @@ APIs: RESTful and GraphQL APIs for communication between client and server.
 
 
 
-Database Management
+## Database Management
 
 Databases store and manage data for applications. Common database systems are:
 
@@ -88,7 +90,7 @@ Cloud Databases: Firebase, Amazon DynamoDB, etc.
 
 
 
-Key Concepts in Web Development
+## Key Concepts in Web Development
 
 Responsive Design: Ensuring websites work seamlessly on different devices and screen sizes.
 
@@ -103,7 +105,7 @@ Security: Best practices to secure applications against threats.
 
 
 
-Tools and Frameworks
+## Tools and Frameworks
 
 This repository explores a variety of tools and frameworks, including:
 
@@ -121,18 +123,18 @@ Testing: Jest, Cypress, Selenium
 
 
 
-Getting Started
+## Getting Started
 
 To get started with this repository:
 
 Clone the repository:
-
+```bash
 git clone https://github.com/benito5142/web_technology.git
-
+```
 Navigate to the repository directory:
-
+```bash
 cd web-technologies-overview
-
+```
 Follow the instructions in the respective sections to dive deeper into each topic.
 
 
@@ -140,9 +142,11 @@ Follow the instructions in the respective sections to dive deeper into each topi
 
 
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you would like to contribute:
+
+Feel free to leave a 🌟.
 
 Fork this repository.
 
@@ -151,15 +155,15 @@ Create a new branch for your feature or fix:
 git checkout -b feature-or-fix-name
 
 Commit your changes and push to the branch:
-
+```bash
 git commit -m "Add your message here"
 git push origin feature-or-fix-name
-
+```
 Open a pull request.
 
 
 
 
-License
+## License
 
 This project is licensed under the LICET License.
